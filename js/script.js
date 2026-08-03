@@ -28,4 +28,4 @@ function (event) {
         return; 
     }
     alert("Registration succesfull");
-    //perform
+    
